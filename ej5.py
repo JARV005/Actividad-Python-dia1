@@ -1,0 +1,20 @@
+x=input("Ingrese el total de su cuenta ")
+x=float(x)
+y=input("Que porcentaje de propina desea dejar (10,15 o 20) ")
+y=float(y)
+propina=0
+if y==10:
+    propina=x*0.10
+    propina=str(propina)
+    print("La propina es de "+propina)
+
+if y==15:
+    
+    propina=x*0.15
+    propina=str(propina)
+    print("La propina es de "+propina)
+
+if y==20:
+    propina=x*0.20
+    propina=str(propina)
+    print("La propina es de "+propina)    
