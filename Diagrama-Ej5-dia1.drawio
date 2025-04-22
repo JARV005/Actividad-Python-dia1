@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="674" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NvNodAPOVigSmEsDPt7u-31" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="NvNodAPOVigSmEsDPt7u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-32" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-1" target="NvNodAPOVigSmEsDPt7u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-1" value="Ingresar valor de la cuenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-2" target="NvNodAPOVigSmEsDPt7u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-2" value="Ingresar porcentaje de propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-4" target="NvNodAPOVigSmEsDPt7u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-4" target="NvNodAPOVigSmEsDPt7u-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-4" value="Propina es del 10%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="390" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-5" target="NvNodAPOVigSmEsDPt7u-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-5" value="Valor de cuenta*0.10=Propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-7" value="Imprimir valor de propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-9" target="NvNodAPOVigSmEsDPt7u-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-9" target="NvNodAPOVigSmEsDPt7u-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-9" value="Propina es del 15%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="390" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-12" target="NvNodAPOVigSmEsDPt7u-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-12" value="Valor de cuenta*0.15=Propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-40" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-13" target="NvNodAPOVigSmEsDPt7u-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-13" value="Imprimir valor de propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="229" y="541" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-16" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="284" y="431" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="479" y="551" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-18" target="NvNodAPOVigSmEsDPt7u-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-18" target="NvNodAPOVigSmEsDPt7u-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-18" value="Propina es del 20%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="390" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-21" target="NvNodAPOVigSmEsDPt7u-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-21" value="Valor de cuenta*0.20=Propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-22" value="Imprimir valor de propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="544" y="421" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-25" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="749" y="531" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-28" value="Proceso sin propina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-37" target="NvNodAPOVigSmEsDPt7u-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-37" value="Total propina" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-38" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.058;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-7" target="NvNodAPOVigSmEsDPt7u-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvNodAPOVigSmEsDPt7u-42" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NvNodAPOVigSmEsDPt7u-22" target="NvNodAPOVigSmEsDPt7u-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
